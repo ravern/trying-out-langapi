@@ -1,0 +1,14 @@
+{
+  "name": "trying-out-langapi",
+  "version": "0.0.1",
+  "main": "src/index.html",
+  "repository": "https://github.com/ravernkoh/trying-out-langapi",
+  "author": "Ravern Koh <ravern@taskade.com>",
+  "private": true,
+  "dependencies": {
+    "react-langapi": "^1.2.7"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
