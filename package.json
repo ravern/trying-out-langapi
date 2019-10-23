@@ -5,7 +5,13 @@
   "repository": "https://github.com/ravernkoh/trying-out-langapi",
   "author": "Ravern Koh <ravern@taskade.com>",
   "private": true,
+  "scripts": {
+    "watch": "parcel src/index.html"
+  },
   "dependencies": {
+    "langapi-client": "^1.4.34",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
     "react-langapi": "^1.2.7"
   },
   "devDependencies": {
