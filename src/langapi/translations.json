@@ -1,1 +1,0 @@
-{"test":{"en":{"es":{"()||||Hello, world!":"¡Hola Mundo!","()||||I am {0}.":"Yo soy {0}."},"zh":{"()||||<1>Hello, world!</1>":"<1>你好，世界！</ 1>","()||||<1>I am Ravern.</1>":"<1>我是Ravern。</ 1>","()||||<1>I am {0}.</1>":"<1>我是{0}。</ 1>","()||||Hello, world!":"你好，世界！","()||||I am {0}.":"我是{0}。"}}},"prod":{},"targetLanguages":["zh","es"],"originalLanguage":"en"}
